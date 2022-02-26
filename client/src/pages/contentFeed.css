@@ -1,0 +1,8 @@
+.content-box{
+    padding: 50px;
+}
+.carousel-caption{
+    color: #FCFFFD;
+    text-shadow: 2px 2px #5D737E;
+    transition: 0.3s;
+}
